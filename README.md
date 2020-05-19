@@ -1,2 +1,2 @@
 # cache-implementation
-simple cache
+simple cache implementation
